@@ -1,0 +1,17 @@
+Useful links:
+http://www.instructables.com/id/Hookup-a-16-pin-HD44780-LCD-to-an-Arduino-in-6-sec/?ALLSTEPS
+http://playground.arduino.cc/Code/ShiftRegSN74HC165N
+http://www.instructables.com/id/MIDI-TO-ARDUINO/?ALLSTEPS 
+https://github.com/FortySevenEffects/arduino_midi_library/
+http://www.notesandvolts.com/2012/01/fun-with-arduino-midi-input-basics.html
+http://www.indiana.edu/~emusic/etext/MIDI/chapter3_MIDI4.shtml
+http://playground.arduino.cc/Main/MIDILibraryReference 
+http://www.elcojacobs.com/using-shiftpwm-to-control-rgb-leds-with-arduino/
+http://forum.arduino.cc/index.php?topic=122378.0
+http://www.instructables.com/id/Home-Made-Bezel-Window-for-LCD-LED-Displays/?ALLSTEPS
+
+Similar projects:
+http://dikant.de/2015/01/18/diy-midi-footswitch-controller/
+http://www.codeproject.com/Articles/38203/Arduino-Based-MIDI-Expression-Pedal
+http://www.midikits.net/foot_pedal_USB_assem/foot_switch_pedal_USB_assem.htm
+http://www.maxgreco.com/fun/microfoot/
