@@ -1,11 +1,11 @@
 /************************************************************************************************************************************
 6/8/18
-AMC1 MIDI CONTROLLER v1.0.0
+AMC-1 MIDI CONTROLLER v1.0.0
 Kevin Quann
 kevin.quann@gmail.com
 
 General:
--This is a general purpose MIDI controller based around an Arduino Uno microcontroller.
+-This is a general purpose MIDI foot controller based around an Arduino Uno microcontroller.
 -Please see associated parts list and schematic for details.
 -Makes use of ShiftPWM, MIDI and LiquidCrystal595 libraries.
 -Controller itself has 13 switches (10 multi-use, 1 page up, 1 page down and 1 tap-tempo).
