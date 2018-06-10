@@ -1,7 +1,7 @@
 # MC1-MIDI
 Arduino-based MIDI controller
 
-General:
+General:  
 -This is a general purpose MIDI controller based around an Arduino Uno microcontroller.  
 -Please see associated parts list and schematic for details.  
 -Makes use of ShiftPWM (from elcojacobs), MIDI (from Forty Seven Effects) and LiquidCrystal595 (from tehniq3) libraries. Make sure these are placed appropriately in your Ardunio IDE library directory.  
@@ -14,7 +14,7 @@ Each page consists of 10 different buttons, scrolling the page number increments
 For instance page 1 = effects 1-10, page 2 = 11-20, etc. Note indexing starts at 0.  
 -Current set-up is here as an example, change as you see fit!  
 
-Issues:
+Issues:  
 -Controller settings currently only changeable by modifying this code and re-flashing.  
 -Make sure to disconnect MIDI out from any devices while flashing over USB!  
 -MIDI over USB not tested.  
