@@ -1,0 +1,9 @@
+[submodule "libraries/ShiftPWM"]
+	path = libraries/ShiftPWM
+	url = https://github.com/elcojacobs/ShiftPWM
+[submodule "libraries/MIDI"]
+	path = libraries/MIDI
+	url = https://github.com/FortySevenEffects/arduino_midi_library
+[submodule "libraries/LiquidCrystal595"]
+	path = libraries/LiquidCrystal595
+	url = https://github.com/tehniq3/LiquidCrystal595
