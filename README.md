@@ -1,4 +1,4 @@
-# MC1-MIDI
+# AMC-1
 Arduino-based MIDI controller
 
 General:  
