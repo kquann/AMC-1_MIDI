@@ -1,8 +1,8 @@
 # AMC-1
-Arduino-based MIDI controller
+Arduino-based MIDI foot controller
 
 General:  
--This is a general purpose MIDI controller based around an Arduino Uno microcontroller.  
+-This is a general purpose MIDI foot controller based around an Arduino Uno microcontroller.  
 -Please see associated parts list and schematic for details.  
 -Makes use of ShiftPWM (from elcojacobs), MIDI (from Forty Seven Effects) and LiquidCrystal595 (from tehniq3) libraries. Make sure these are placed appropriately in your Ardunio IDE library directory.  
 -The controller itself has 13 switches (10 multi-use, 1 page up, 1 page down and 1 tap-tempo).  
